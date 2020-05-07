@@ -1,43 +1,5 @@
 {
-    "restaurants": [{
-            "id": "0",
-            "name": "jackson",
-            "logoPath": "https://www.singleplatform.com/wp-content/uploads/2018/12/5-Tips-for-Improving-Restaurant-Ambiance.jpg",
-            "averageTicketDescription": "",
-            "averageTicketValue": 140.00,
-            "priceLevel": 4,
-            "description": "bilu",
-            "payingMethodDescription": "",
-            "birthdateDiscountRole": "bilu",
-            "birthdateDiscount": 40.0,
-            "rating": 5.0,
-            "subCategories": [{
-                "name": "bilu",
-                "description": "bilu",
-                "id": "2",
-                "category": {
-                    "name": "asdfsaf",
-                    "description": "sadfasf",
-                    "id": "1",
-                    "creationDate": "asdfas",
-                    "deletionDate": "asdfasf",
-                    "lastChangeDate": "asdfasdf"
-                }
-            }, {
-                "name": "bilu",
-                "description": "bilu",
-                "id": "2",
-                "category": {
-                    "name": "asdfsaf",
-                    "description": "sadfasf",
-                    "id": "1",
-                    "creationDate": "asdfas",
-                    "deletionDate": "asdfasf",
-                    "lastChangeDate": "asdfasdf"
-                }
-            }]
-        }
-    ] ,  "items" : [
+    "items" : [
       {
           "name": "X Calabresa",
           "description": "X Calabresa",
