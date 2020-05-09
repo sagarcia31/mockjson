@@ -1,14 +1,14 @@
 {
 	"restaurants": [{
 		"id": "0",
-		"name": "jackson",
+		"name": "Riversides",
 		"logoPath": "https://www.singleplatform.com/wp-content/uploads/2018/12/5-Tips-for-Improving-Restaurant-Ambiance.jpg",
 		"averageTicketDescription": "",
 		"averageTicketValue": 140.00,
 		"priceLevel": 4,
-		"description": "Tailandês",
+		"description": "Steakhouse & sushibar",
 		"payingMethodDescription": "",
-		"birthdateDiscountRole": "Tailandês",
+		"birthdateDiscountRole": "Carnes",
 		"birthdateDiscount": 40.0,
 		"rating": 5.0,
 		"subCategories": [{
