@@ -6,30 +6,30 @@
 		"averageTicketDescription": "",
 		"averageTicketValue": 140.00,
 		"priceLevel": 4,
-		"description": "bilu",
+		"description": "Tailandês",
 		"payingMethodDescription": "",
-		"birthdateDiscountRole": "bilu",
+		"birthdateDiscountRole": "Tailandês",
 		"birthdateDiscount": 40.0,
 		"rating": 5.0,
 		"subCategories": [{
-			"name": "bilu",
-			"description": "bilu",
+			"name": "Tailandês",
+			"description": "Carnes",
 			"id": "2",
 			"category": {
-				"name": "asdfsaf",
-				"description": "sadfasf",
+				"name": "Tailandês",
+				"description": "Tailandês",
 				"id": "1",
 				"creationDate": "asdfas",
 				"deletionDate": "asdfasf",
 				"lastChangeDate": "asdfasdf"
 			}
 		}, {
-			"name": "bilu",
-			"description": "bilu",
+			"name": "Tailandês",
+			"description": "Tailandês",
 			"id": "2",
 			"category": {
-				"name": "asdfsaf",
-				"description": "sadfasf",
+				"name": "Tailandês",
+				"description": "Tailandês",
 				"id": "1",
 				"creationDate": "asdfas",
 				"deletionDate": "asdfasf",
@@ -190,7 +190,7 @@
 	"bookings": {
 		"closedBookings": [],
 		"currentBookings": [{
-			"groupName": "bilu",
+			"groupName": "Segunda feira - 05 de maio",
 			"bookings": [{
 				"bookingStatus": 0,
 				"discountValue": 45.0,
@@ -206,8 +206,8 @@
 				"bookingDateString": "",
 				"seatNumber": 23,
 				"subCategories": [{
-					"name": "bilu",
-					"description": "bilu",
+					"name": "Tailandês",
+					"description": "biTailandêslu",
 					"id": "2",
 					"category": {
 						"name": "asdfsaf",
@@ -218,8 +218,8 @@
 						"lastChangeDate": "asdfasdf"
 					}
 				}, {
-					"name": "bilu",
-					"description": "bilu",
+					"name": "Tailandês",
+					"description": "Tailandês",
 					"id": "2",
 					"category": {
 						"name": "asdfsaf",
